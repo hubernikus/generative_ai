@@ -1,0 +1,8 @@
+ipython
+torch
+torchvision
+torchaudio
+# cudatoolkit
+diffusers[torch]
+transformers
+
